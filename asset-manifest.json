@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-fetch-movies/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-fetch-movies/static/js/main.861f8367.chunk.js",
+    "main.js.map": "/react-fetch-movies/static/js/main.861f8367.chunk.js.map",
+    "runtime-main.js": "/react-fetch-movies/static/js/runtime-main.6849df41.js",
+    "runtime-main.js.map": "/react-fetch-movies/static/js/runtime-main.6849df41.js.map",
+    "static/js/2.fc171023.chunk.js": "/react-fetch-movies/static/js/2.fc171023.chunk.js",
+    "static/js/2.fc171023.chunk.js.map": "/react-fetch-movies/static/js/2.fc171023.chunk.js.map",
+    "static/js/3.efee1d22.chunk.js": "/react-fetch-movies/static/js/3.efee1d22.chunk.js",
+    "static/js/3.efee1d22.chunk.js.map": "/react-fetch-movies/static/js/3.efee1d22.chunk.js.map",
+    "index.html": "/react-fetch-movies/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-fetch-movies/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.fc171023.chunk.js.LICENSE.txt": "/react-fetch-movies/static/js/2.fc171023.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-fetch-movies/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6849df41.js",
+    "static/js/2.fc171023.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.861f8367.chunk.js"
+  ]
+}

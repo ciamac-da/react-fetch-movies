@@ -13,7 +13,7 @@ const fetchMoviesHandler =  useCallback(async()=>{
      setIsLoading(true)
      setError(null)
      try{
-       const response = await fetch("https://swapi.dev/api/films/")
+       const response = await fetch("https://react-fetch-movies-1fd98-default-rtdb.firebaseio.com/movies.json")
        
        if(!response.ok){
          throw new Error("Something went wrong!")
